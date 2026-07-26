@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-d7gyxc.goib138.site/sitemap.xml
